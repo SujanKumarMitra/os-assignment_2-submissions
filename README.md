@@ -1,6 +1,6 @@
-# OS Assignment-1 Submissions
+# OS Assignment-2 Submissions
 
-This repository contains submissions of TIB CSE (2022) OS Assignment-1
+This repository contains submissions of TIB CSE (2022) OS Assignment-2
 
 ## Assignment Questions:
 
